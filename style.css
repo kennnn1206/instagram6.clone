@@ -14,8 +14,8 @@ body{
     border-right: 1px solid #dedcdc;
     position: relative;
     position: sticky;
-    top: 0px;
-    left: 0px;
+    top: 0;
+    left: 0;
 }
 .ig-container{
     width: 48px;
